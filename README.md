@@ -1,6 +1,6 @@
 # 🎯 Object Detection and Tracking using OpenCV
 
-This project demonstrates how to detect and track moving objects in a video using OpenCV. The goal is to identify vehicles on a highway and track their movement across frames.
+This project demonstrates how to detect and track moving objects in a video using OpenCV. The goal is to identify vehicles on a highway and track their movement across frames.Object detection and tracking project using OpenCV in Python. Detects vehicles in a video using background subtraction, filters noise, defines ROI, and tracks each vehicle with unique IDs in real time. Ideal for beginners exploring computer vision and surveillance applications.
 
 ---
 
